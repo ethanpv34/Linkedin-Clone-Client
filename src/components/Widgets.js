@@ -29,7 +29,7 @@ function Widgets() {
       {newsArticle("Tesla hits new highs", "Cars & auto - 300 readers")}
       {newsArticle("Should you invest in Bitcoin?", "Crypto - 8000 readers")}
       {newsArticle("Is Redux Always Needed?", "Code - 123 readers")}
-      {newsArticle("PAPA react launches course?!", "Top news - 6503 readers")}
+      {newsArticle("Technical Interview Prep For FAANG", "Top news - 6503 readers")}
     </div>
   );
 }
